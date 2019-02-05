@@ -2,6 +2,7 @@
   <section class="container">
     <div>
       <logo/>
+      <test/>
       <h1 class="title">
         genesclab
       </h1>
@@ -24,10 +25,12 @@
 
 <script>
 import Logo from '~/components/Logo.vue'
+import Test from '~/components/Test.vue'
 
 export default {
   components: {
-    Logo
+    Logo,
+    Test
   }
 }
 </script>

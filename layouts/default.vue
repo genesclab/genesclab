@@ -1,8 +1,10 @@
 <template>
   <div>
+    it's daylight
     <nuxt/>
   </div>
 </template>
+
 
 <style>
 html {
